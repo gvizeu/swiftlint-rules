@@ -14,7 +14,6 @@ excluded: # paths to ignore during linting. Takes precedence over `included`.
  - MyVodafone/Constant/VFStoryboardName.swift
  - MyVodafone/Accessibility/Accessibility.swift
  - MyVodafone/Utilities/AppLaunch/AppLaunchPresenter.swift
- - MyVodafone/Utilities/AppLaunch/AuthenticationManager.swift
  - MyVodafone/Utilities/DynamicLinking/DeepPath.swift
  - MyVodafone/Utilities/DynamicLinking/DeepLinkingManager.swift
  - MyVodafone/DevDashboard/DevConfigs/DevConfigsViewController.swift
